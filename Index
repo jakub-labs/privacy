@@ -1,0 +1,42 @@
+# Privacy Statement
+
+This privacy statement applies to the JakubTech Project demo tenant.
+
+## Data Controller
+JakubTech Project (Demo / Lab Environment)
+
+## Purpose of Data Processing
+This tenant is used for:
+- Azure / Entra ID identity testing
+- RBAC and PIM demonstrations
+- Conditional Access and security policy labs
+- Portfolio and learning projects
+
+## Data Collected
+- User names and email addresses
+- Authentication and sign-in logs
+- Device identifiers
+- IP addresses
+- Audit and activity logs
+
+## Legal Basis
+Processing is based on legitimate interest for technical testing and learning purposes.
+All accounts are test or demo users.
+
+## Data Retention
+Logs and data are retained for a maximum of 90 days unless required longer for audit testing.
+
+## Data Sharing
+Data is not shared with third parties.
+Microsoft acts as the data processor for cloud services.
+
+## Security Measures
+- Least privilege access
+- Multi-Factor Authentication
+- Conditional Access policies
+- Activity logging and auditing
+
+## Contact
+For questions regarding this privacy statement, contact:
+
+admin-ops@jakubtech.co.uk
